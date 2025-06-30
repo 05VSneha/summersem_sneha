@@ -19,6 +19,11 @@ int main() {
 			printf("Result: %.2lf\n", result);
 			break;
 				case '-':
-				result== num1 - num2;
+				result= num1 - num2;
 				printf("Result: %.2lf\n", result);
 				break;
+				case '*':
+				result= num1 * num2;
+				printf("Result: %.2lf\n",result);
+				break;
+

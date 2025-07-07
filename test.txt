@@ -4,3 +4,5 @@ ECE
 CSE
 btech cse aiml
 cafe ccd
+
+Today is 7& july
